@@ -1,0 +1,44 @@
+#tarjeta {
+
+    background-color: #223142;
+    height: 438px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+#contenido {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#boton {
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    background-color: #b1f0dc;
+    color: #223142;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+   
+}
+
+#titulo {
+    margin-top: 20px;
+    color: #b1f0dc;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+
+img {
+    width: 280px;
+}
